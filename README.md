@@ -10,8 +10,11 @@ The primary purpose of this project is to demonstrate a practical user authentic
 
 # Key Features:
 Secure Client-Server Communication: The client and server communicate over TCP/IP using sockets, ensuring secure data exchange.
+
 Secure Password Handling: User passwords are hashed using hashlib before storage, protecting sensitive data.
+
 User Authentication: The server validates user credentials against a SQLite database, providing secure authentication.
+
 Threading: The server uses threading to handle multiple client connections simultaneously, optimizing performance.
 
 # Skills Gained:
